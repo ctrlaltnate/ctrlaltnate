@@ -24,6 +24,5 @@ jobs:
           config_timezone: Asia/Bangkok
           
           # ตัวอย่าง Plugins (ปรับเลือกเปิด/ปิดตามชอบได้ครับ)
-          plugin_lines: yes          # แสดงจำนวนบรรทัด code ที่เขียน
           plugin_isocalendar: yes     # แสดงกราฟ Commit แบบ 3D
           plugin_languages: yes       # แสดงภาษาคอมพิวเตอร์ที่ใช้บ่อย
