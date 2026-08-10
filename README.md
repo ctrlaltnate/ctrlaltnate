@@ -1,12 +1,6 @@
 <h1 align="center">@ctrlaltnate</h1>
 
 <p align="center">
-  <a href="https://github.com/ctrlaltnate?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,kotlin,powershell,py,bash,swift,ts&perline=20" alt="Languages used across ctrlaltnate repositories" height="36" />
-  </a>
-</p>
-
-<p align="center">
   <img src="./github-metrics-languages.svg" alt="Language activity across GitHub repositories" />
 </p>
 
