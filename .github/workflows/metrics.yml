@@ -1,4 +1,3 @@
-
 name: Metrics
 on:
   # ตั้งเวลาอัปเดตอัตโนมัติทุกๆ เที่ยงคืน
@@ -19,10 +18,18 @@ jobs:
 
           # การตั้งค่าพื้นฐาน
           user: ctrlaltnate
-          template: classic
+          template: terminal # << เปลี่ยนเป็น Terminal template
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
-          
-          # ตัวอย่าง Plugins (ปรับเลือกเปิด/ปิดตามชอบได้ครับ)
-          plugin_isocalendar: yes     # แสดงกราฟ Commit แบบ 3D
-          plugin_languages: yes       # แสดงภาษาคอมพิวเตอร์ที่ใช้บ่อย
+
+          # 1. Isometric commit calendar (Full Year)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # << ตั้งค่าให้แสดงเต็มปี
+
+          # 2. Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 15 # จำนวน topics ที่ต้องการให้แสดง
+          plugin_topics_mode: starred # ดึงจาก topics ที่เราเคย star ไว้
+
+          # Plugins เดิมของคุณ
+          plugin_languages: yes
