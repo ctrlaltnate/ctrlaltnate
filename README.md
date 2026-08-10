@@ -7,21 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/ctrlaltnate_">
-    <img src="https://img.shields.io/badge/Instagram-ctrlaltnate-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="https://t.me/ctrlaltnate_tg">
-    <img src="https://img.shields.io/badge/Telegram-NateEkkaluck-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  
-  <a href="https://www.youtube.com/@ctrlaltnate">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ekkaluck.d">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <a href="https://instagram.com/ctrlaltnate_">
+      <img src="https://img.shields.io/badge/Instagram-ctrlaltnate-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height:20px;margin:0 6px;" />
+    </a>
+    <a href="https://t.me/ctrlaltnate_tg">
+      <img src="https://img.shields.io/badge/Telegram-ctrlaltnate_tg-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="height:20px;margin:0 6px;" />
+    </a>
+    <a href="https://www.youtube.com/@ctrlaltnate">
+      <img src="https://img.shields.io/badge/YouTube-ctrlaltnate-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="height:20px;margin:0 6px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/ekkaluck.d">
+      <img src="https://img.shields.io/badge/LinkedIn-ekkaluck.d-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:20px;margin:0 6px;" />
+    </a>
 </p>
 
 <p align="center">
