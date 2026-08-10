@@ -45,6 +45,10 @@ jobs:
           base: "" # ปิดข้อมูลพื้นฐานออก ให้แสดงแค่ Topics ในสไตล์ Terminal
           config_timezone: Asia/Bangkok
 
+          # Isometric Commit Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
           # Starred topics
           plugin_topics: yes
           plugin_topics_limit: 15
