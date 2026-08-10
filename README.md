@@ -7,13 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" />
+  <a href="https://instagram.com/ctrlaltnate_">
+    <img src="https://img.shields.io/badge/Instagram-@ctrlaltnate_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" height="28" />
+  <a href="https://t.me/ctrlaltnate_tg">
+    <img src="https://img.shields.io/badge/Telegram-@ctrlaltnate_tg-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="28" height="28" />
+  <a href="https://www.youtube.com/@ctrlaltnate">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
+  <a href="https://www.linkedin.com/in/ekkaluck.d">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
