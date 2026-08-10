@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://instagram.com/ctrlaltnate_">
-    <img src="https://img.shields.io/badge/Instagram-@ctrlaltnate-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-ctrlaltnate-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://t.me/ctrlaltnate_tg">
-    <img src="https://img.shields.io/badge/Telegram-@ctrlaltnatetg-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-NateEkkaluck-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@ctrlaltnate">
