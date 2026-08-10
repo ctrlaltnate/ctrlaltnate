@@ -6,18 +6,18 @@
   </a>
 </p>
 
-<p align="center" style="line-height:0;font-size:0;">
-    <a href="https://instagram.com/ctrlaltnate" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" style="height:28px;display:block;margin:0;" />
-    </a><!--
- --><a href="https://t.me/ctrlaltnate_tg" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" style="height:28px;display:block;margin:0;" />
-    </a><!--
- --><a href="https://www.youtube.com/@ctrlaltnate" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" style="height:28px;display:block;margin:0;" />
-    </a><!--
- --><a href="https://www.linkedin.com/in/ekkaluck-d" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" style="height:28px;display:block;margin:0;" />
+<p align="center" style="font-size:0;line-height:0;">
+    <a href="https://instagram.com/ctrlaltnate" style="text-decoration:none;display:inline-block;">
+      <img src="https://img.shields.io/badge/Instagram-ctrlaltnate-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height:20px;margin:0 6px;border-radius:6px;display:block;" />
+    </a>
+    <a href="https://t.me/ctrlaltnate_tg" style="text-decoration:none;display:inline-block;">
+      <img src="https://img.shields.io/badge/Telegram-ctrlaltnate_tg-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="height:20px;margin:0 6px;border-radius:6px;display:block;" />
+    </a>
+    <a href="https://www.youtube.com/@ctrlaltnate" style="text-decoration:none;display:inline-block;">
+      <img src="https://img.shields.io/badge/YouTube-ctrlaltnate-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="height:20px;margin:0 6px;border-radius:6px;display:block;" />
+    </a>
+    <a href="https://www.linkedin.com/in/ekkaluck-d" style="text-decoration:none;display:inline-block;">
+      <img src="https://img.shields.io/badge/LinkedIn-ekkaluck.d-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:20px;margin:0 6px;border-radius:6px;display:block;" />
     </a>
 </p>
 
