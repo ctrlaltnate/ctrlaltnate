@@ -1,9 +1,7 @@
 name: Metrics
 on:
-  # ตั้งเวลาอัปเดตอัตโนมัติทุกๆ เที่ยงคืน
   schedule:
     - cron: "0 0 * * *"
-  # ให้กดสั่งรันเองในแท็บ Actions ได้
   workflow_dispatch:
 
 jobs:
@@ -12,24 +10,42 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # ----------------------------------------------------
+      # การ์ดที่ 1: ส่วนการ์ดหลัก + Languages + Isometric (Classic Template)
+      # ----------------------------------------------------
+      - name: Main Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # การตั้งค่าพื้นฐาน
+          filename: github-metrics-main.svg # ชื่อไฟล์แยกที่ 1
+          
           user: ctrlaltnate
-          template: terminal # << เปลี่ยนเป็น Terminal template
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
 
-          # 1. Isometric commit calendar (Full Year)
+          # Isometric Commit Calendar (Full year)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # << ตั้งค่าให้แสดงเต็มปี
+          plugin_isocalendar_duration: full-year
 
-          # 2. Starred topics
-          plugin_topics: yes
-          plugin_topics_limit: 15 # จำนวน topics ที่ต้องการให้แสดง
-          plugin_topics_mode: starred # ดึงจาก topics ที่เราเคย star ไว้
-
-          # Plugins เดิมของคุณ
+          # Languages
           plugin_languages: yes
+
+      # ----------------------------------------------------
+      # การ์ดที่ 2: ส่วน Starred Topics (Terminal Template)
+      # ----------------------------------------------------
+      - name: Terminal Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-terminal.svg # ชื่อไฟล์แยกที่ 2
+          
+          user: ctrlaltnate
+          template: terminal
+          base: "" # ปิดข้อมูลพื้นฐานออก ให้แสดงแค่ Topics ในสไตล์ Terminal
+          config_timezone: Asia/Bangkok
+
+          # Starred topics
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
