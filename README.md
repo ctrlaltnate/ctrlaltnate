@@ -1,5 +1,5 @@
-<h1 align="center">@ctrlaltnate</h1>
-
+<h1 align="center">Ekkaluck DOungmusik - GitHub</h1>
+<h2 align="center">@ctrlaltnate</h1>
 <p align="center">
   <a href="https://github.com/ctrlaltnate?tab=repositories">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,kotlin,powershell,py,bash,swift,ts&perline=20" alt="Languages used across ctrlaltnate repositories" height="36" />
