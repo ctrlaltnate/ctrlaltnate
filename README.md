@@ -7,6 +7,16 @@
 </p>
 
 <p align="center">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" height="28" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="28" height="28" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
+</p>
+
+<p align="center">
   <img src="./github-metrics-main.svg" alt="GitHub profile metrics" width="49%" align="top" />
   <img src="./github-metrics-terminal.svg" alt="GitHub commit calendar" width="49%" align="top" />
 </p>
