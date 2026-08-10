@@ -10,15 +10,15 @@
   <a href="https://instagram.com/ctrlaltnate_">
     <img src="https://img.shields.io/badge/Instagram-ctrlaltnate-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
+  
   <a href="https://t.me/ctrlaltnate_tg">
     <img src="https://img.shields.io/badge/Telegram-NateEkkaluck-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  &nbsp;
+  
   <a href="https://www.youtube.com/@ctrlaltnate">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/ekkaluck.d">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
