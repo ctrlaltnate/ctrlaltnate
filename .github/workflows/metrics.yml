@@ -51,7 +51,8 @@ jobs:
 
           user: ctrlaltnate
           template: terminal
-          base: ""
+          # Show basic account information before the calendar.
+          base: header, metadata
           config_timezone: Asia/Bangkok
 
           # Isometric Commit Calendar
