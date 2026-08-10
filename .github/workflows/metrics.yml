@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Main card: profile, languages, and a compact isometric calendar
+      # Main card: profile and language statistics
       - name: Main Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -22,15 +22,27 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
-
-          # Half-year keeps the calendar readable in a 50% README column.
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
           # Languages
           plugin_languages: yes
 
-      # Terminal card: compact calendar and starred topics
+      # Technology icons displayed below the GitHub username
+      - name: Technology Topics
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          filename: github-metrics-topics.svg
+
+          user: ctrlaltnate
+          template: classic
+          base: ""
+          config_timezone: Asia/Bangkok
+
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: activity
+
+      # Right card: isometric commit calendar
       - name: Terminal Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -44,9 +56,4 @@ jobs:
 
           # Isometric Commit Calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # Starred topics
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_isocalendar_duration: full-year
