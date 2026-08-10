@@ -27,8 +27,17 @@
       <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" style="height:28px;display:block;margin:0;" />
     </a><!--
  --><!--
- --><a href="https://www.reddit.com/user/Ekalucknes" style="display:inline-block;text-decoration:none;border:0;">
+--><a href="https://www.reddit.com/user/Ekalucknes" style="display:inline-block;text-decoration:none;border:0;">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="height:28px;display:block;margin:0;" />
+     </a><!--
+   --><a href="https://discord.com/invite/Syg9SJWv" style="display:inline-block;text-decoration:none;border:0;">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height:28px;display:block;margin:0;border-radius:4px;" />
+    </a><!--
+   --><a href="mailto:ekaluck.musik@gmail.com" style="display:inline-block;text-decoration:none;border:0;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:28px;display:block;margin:0;border-radius:4px;" />
+    </a><!--
+   --><a href="https://wa.me/66925388313" style="display:inline-block;text-decoration:none;border:0;">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height:28px;display:block;margin:0;border-radius:4px;" />
     </a>
 </p>
 
