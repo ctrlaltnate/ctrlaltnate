@@ -11,13 +11,13 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:28px;display:block;margin:0;" />
     </a><!--
  --><a href="https://t.me/ctrlaltnate_tg" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="height:28px;display:block;margin:0;" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="height:28px;display:block;margin:0;" />
     </a><!--
  --><a href="https://www.youtube.com/@ctrlaltnate" style="display:inline-block;text-decoration:none;border:0;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="height:28px;display:block;margin:0;" />
     </a><!--
  --><a href="https://www.linkedin.com/in/ekkaluck.d" style="display:inline-block;text-decoration:none;border:0;">
-      <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/icons/linkedin.svg" alt="LinkedIn" style="height:28px;display:block;margin:0;" />
+      <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px;display:block;margin:0;" />
     </a><!--
  --><a href="https://line.me/ti/p/~ekalucknes" style="display:inline-block;text-decoration:none;border:0;">
       <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" style="height:28px;display:block;margin:0;" />
