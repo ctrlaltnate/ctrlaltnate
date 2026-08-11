@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="line-height:0;font-size:0;">
-<a href="https://www.linkedin.com/in/ekkaluck.d" style="display:inline-block;text-decoration:none;border:0;">
+<a href="https://www.linkedin.com/in/ekkaluck-d" style="display:inline-block;text-decoration:none;border:0;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:28px;display:block;margin:0;" />
     </a>
     <a href="https://www.xing.com/profile/Ekkaluck_Doungmusik/" style="display:inline-block;text-decoration:none;border:0;">
